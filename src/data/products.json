@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Gothic Dress",
+      "description": "A beautiful gothic dress with lace details.",
+      "price": 49.99,
+      "thumbnail": "https://example.com/images/gothic_dress_thumbnail.jpg",
+      "code": "GD123",
+      "stock": 20
+    },
+    {
+      "id": 2,
+      "title": "Skull T-Shirt",
+      "description": "Black t-shirt with a skull print.",
+      "price": 19.99,
+      "thumbnail": "https://example.com/images/skull_tshirt_thumbnail.jpg",
+      "code": "ST456",
+      "stock": 50
+    },
+    {
+      "id": 3,
+      "title": "Leather Jacket",
+      "description": "High-quality leather jacket with metal studs.",
+      "price": 99.99,
+      "thumbnail": "https://example.com/images/leather_jacket_thumbnail.jpg",
+      "code": "LJ789",
+      "stock": 10
+    },
+    {
+      "id": 4,
+      "title": "Gothic Boots",
+      "description": "Black boots with silver buckles and high heels.",
+      "price": 79.99,
+      "thumbnail": "https://example.com/images/gothic_boots_thumbnail.jpg",
+      "code": "GB101",
+      "stock": 15
+    },
+    {
+      "id": 5,
+      "title": "Corset Top",
+      "description": "Black corset top with lace and ribbon details.",
+      "price": 39.99,
+      "thumbnail": "https://example.com/images/corset_top_thumbnail.jpg",
+      "code": "CT112",
+      "stock": 30
+    },
+    {
+      "id": 6,
+      "title": "Gothic Pants",
+      "description": "Black pants with chains and zippers.",
+      "price": 59.99,
+      "thumbnail": "https://example.com/images/gothic_pants_thumbnail.jpg",
+      "code": "GP131",
+      "stock": 25
+    },
+    {
+      "id": 7,
+      "title": "Pentagram Necklace",
+      "description": "Silver pentagram necklace with black gem.",
+      "price": 14.99,
+      "thumbnail": "https://example.com/images/pentagram_necklace_thumbnail.jpg",
+      "code": "PN141",
+      "stock": 100
+    },
+    {
+      "id": 8,
+      "title": "Gothic Hat",
+      "description": "Black hat with lace and feather details.",
+      "price": 29.99,
+      "thumbnail": "https://example.com/images/gothic_hat_thumbnail.jpg",
+      "code": "GH151",
+      "stock": 20
+    },
+    {
+      "id": 9,
+      "title": "Skull Ring",
+      "description": "Silver ring with skull design.",
+      "price": 9.99,
+      "thumbnail": "https://example.com/images/skull_ring_thumbnail.jpg",
+      "code": "SR161",
+      "stock": 60
+    },
+    {
+      "id": 10,
+      "title": "Gothic Bag",
+      "description": "Black bag with gothic embroidery.",
+      "price": 49.99,
+      "thumbnail": "https://example.com/images/gothic_bag_thumbnail.jpg",
+      "code": "GB171",
+      "stock": 25
+    }
+  ]
+  
